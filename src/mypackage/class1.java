@@ -6,6 +6,9 @@ public class class1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Successful CLonning of Repository A");
+		System.out.println("Successful CLonning of Repository B");
+		System.out.println("Successful CLonning of Repository C");
+		
 		}
 
 }
